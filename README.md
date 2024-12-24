@@ -1,6 +1,9 @@
 # 🏆 **Certificações e Treinamentos em TI**  
 🎓 Aqui está uma lista detalhada das minhas certificações e treinamentos com 🛡️ badges, ícones e 🏅 conquistas emitidas por instituições reconhecidas.  
 
+![explorer_8WBGSYTB1e](https://github.com/user-attachments/assets/0e999593-246c-429a-b58e-3bcd209063bc)
+![explorer_0FBHx869m6](https://github.com/user-attachments/assets/138ee86d-4910-410a-9521-a57d19b967b1)
+
 ---
 
 ### 🚀 **Ambientes de Desenvolvimento com Kubernetes**  
